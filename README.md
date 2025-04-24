@@ -1,4 +1,4 @@
-## Hi there 👋
+## Absorb what is useful. Discard what is not. Add what is uniquely your own.  ___ Bruce Lee
 
 <!--
 **musfikaakter/musfikaakter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
